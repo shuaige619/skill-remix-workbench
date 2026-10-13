@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "standard_version": "1.0.0",
+  "skill": "skill-remix-workbench",
+  "source_version": "3fb1252b713da01f9dce338d3e0f74d30ee796a4fca98067a1dca74844076b96",
+  "origin": "original",
+  "stage": "candidate",
+  "upstream": "",
+  "files": {
+    "README.md": "fe2e22c075d96b68f614bfedb9db7e4b18270de02c389c8ac421c02f7d97bc57",
+    "SKILL.md": "e2ef84821185de018497226d81d146d45895615bdfaadf25f9970565b12e0b7c",
+    "agents/openai.yaml": "3abaa7265dca42b4d70f84af9c898288e0f3cd76064e378489c7cd813d5f951f",
+    "scripts/workbench.py": "c9e3289a0ed89ed8f023cc009b388fc04f2d2821ae839774d6c71384a1d6982c"
+  }
+}
